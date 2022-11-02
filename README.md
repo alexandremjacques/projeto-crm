@@ -18,13 +18,11 @@ os mesmos problemas de forma a ilustrar alumas das possíveis soluções provida
 
 O projeto espera que esteja configurado um banco de dados MySQL sendo executado na máquina local (`localhost:3306`) e com um banco de dados chamado `projetocrm` e usuário `root` (sem senha) conforme especificado no arquivo `application.properties` do projeto.
 
-Na pasta `resources/data` do projeto, existe o arquivo `cria_bd.sql` que tem o script necessário para criar a estrutura necessária no BD para uso com o projeto.
+Na pasta `resources/data` do projeto, existe o arquivo `cria_bd.sql` que é o script para criar a estrutura necessária no BD para uso com o projeto.
 
 #### Versão Java
 
-Para o curso e o projeto, a versão mínima da JDK é a **Java 8**.
-
-
+Para o curso e o projeto, a versão mínima da JDK é a **Java 8**
 
 ### Ao Instrutor
 
